@@ -1,0 +1,5 @@
+
+
+
+
+time()-This function returns the calendar-time equivalent using data-type time_t.
